@@ -20,3 +20,4 @@ members:
 signed: no
 signed : yes
 cli : test2
+cli : test3
