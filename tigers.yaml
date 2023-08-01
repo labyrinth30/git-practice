@@ -16,4 +16,5 @@ members:
 - Racoon
 - Hook
 - PR Again
-- BY SSH
+
+signed: yes
