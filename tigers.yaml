@@ -17,5 +17,6 @@ members:
 - Hook
 - PR Again
 
-signed: no
+signed : no
 signed : yes
+cli : test
