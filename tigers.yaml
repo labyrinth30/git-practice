@@ -19,3 +19,4 @@ members:
 
 signed: no
 signed : yes
+cli : test
